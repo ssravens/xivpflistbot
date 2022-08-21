@@ -19,6 +19,7 @@ cssparser = "0.29.6"
 simple-error = "0.2.3"
 regex = "1"
 lazy_static = "1.4.0"
+rocket = "0.4.7"
 
 [profile.release]
 debug = true
